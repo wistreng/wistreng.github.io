@@ -21,7 +21,7 @@
 title: Frank's Tech Blog
 email: wistreng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Big Data Guru
+  Big Data Focus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
