@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Variables
-date:   2018-03-02 10:01:27 +1300
+date:   2018-03-03 10:01:27 +1300
 tags: bash
 category: linux
 ---
