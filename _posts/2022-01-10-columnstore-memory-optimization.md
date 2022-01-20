@@ -123,6 +123,7 @@ EXEC sp_addrolemember 'largerc', 'loaduser';
 
 
 ### Reference:
+[Guidance for designing distributed tables using dedicated SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
 [Best practices for dedicated SQL pools in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/best-practices-dedicated-sql-pool)
 [Maximize rowgroup quality for columnstore index performance](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/data-load-columnstore-compression)
 [Columnstore indexes - Data loading guidance](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-data-loading-guidance?view=azure-sqldw-latest)
@@ -132,3 +133,5 @@ EXEC sp_addrolemember 'largerc', 'loaduser';
 [Cheat sheet for dedicated SQL pool (formerly SQL DW) in Azure Synapse Analytic](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/synapse-analytics/sql-data-warehouse/cheat-sheet.md)
 [Hands-On with Columnstore Indexes: Part 3 Maintenance and Additional Options](https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/hands-on-with-columnstore-indexes-part-3-maintenance-and-additional-options/)
 [Workload management with resource classes in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/resource-classes-for-workload-management?context=/azure/synapse-analytics/context/context)
+[Clustered Columnstore Indexes – part 16 (“Index Builds”)](https://www.nikoport.com/2013/08/09/clustered-columnstore-indexes-part-16-index-builds/)
+[Performance tuning with ordered clustered columnstore index](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/performance-tuning-ordered-cci)
